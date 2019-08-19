@@ -1,0 +1,15 @@
+#server:
+#  port: 8087
+#  address: 0.0.0.0
+spring:
+    datasource:
+        name: test
+        url: jdbc:mysql://127.0.0.1:3306/demo
+        username: root
+        password: wht123
+        driver-class-name: com.mysql.jdbc.Driver
+#    thymeleaf:
+#      prefix: classpath:/templates/
+mybatis:
+   mapper-locations: classpath:mapping/*Mapper.xml
+   type-aliases-package: com.wuhan.wht.basic*

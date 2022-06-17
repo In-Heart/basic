@@ -17,7 +17,7 @@
         <java.version>1.8</java.version><!-- 版本号统一管理 -->
         <version.servlet>3.1.0</version.servlet>
         <version.swagger2>2.7.0</version.swagger2>
-        <version.fastjson>1.2.58</version.fastjson>
+        <version.fastjson>1.2.83</version.fastjson>
         <version.commons-fileupload>1.2.1</version.commons-fileupload>
         <version.commons-io>1.4.0</version.commons-io>
         <version.jedis>2.9.0</version.jedis>
